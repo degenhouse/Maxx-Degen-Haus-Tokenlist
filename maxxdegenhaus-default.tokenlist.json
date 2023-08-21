@@ -16,11 +16,11 @@
       "address": "0x34584930FB80f30694e3849913A2635041c44e9d",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png",
+      "logoURI": "https://maxx.degen.haus/images/tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png"
     },
     {
       "name": "Wrapped PWR",
-      "symbol": "wPWR",
+      "symbol": "WPWR",
       "address": "0xA29D0ee618f33d8eFE9A20557fd0EF63dD050859",
       "chainId": 10201,
       "decimals": 18,
@@ -68,21 +68,21 @@
       "bridgeId": "",
       "nativeChain": ""
     },
-      {
-        "name": "Sirens Treasure Token",
-        "symbol": "SIREN",
-        "address": "0x4604c631823ab1dBE9811c1447c156073cF6EbFd",
-        "logoURI": "https://maxx.degen.haus/images/tokens/0x4604c631823ab1dBE9811c1447c156073cF6EbFd.png",
-        "chainId": 10201,
-        "decimals": 18,
-      },
+    {
+      "name": "Sirens Treasure Token",
+      "symbol": "SIREN",
+      "address": "0x4604c631823ab1dBE9811c1447c156073cF6EbFd",
+      "logoURI": "https://maxx.degen.haus/images/tokens/0x4604c631823ab1dBE9811c1447c156073cF6EbFd.png",
+      "chainId": 10201,
+      "decimals": 18
+    },
     {
       "name": "Doom Token",
       "symbol": "DOOM",
       "address": "0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://64daa8131761d40562be3a61--fancy-gecko-421c8b.netlify.app/static/media/crypto_tomb_cash.392456cb.svg",
+      "logoURI": "https://maxx.degen.haus/images/tokens/0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574.png",
       "bridgeId": "",
       "nativeChain": ""
     }

@@ -1,0 +1,100 @@
+{
+  "name": "DEGENHAUS Default List",
+  "timestamp": "2021-12-11T17:23:19Z",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://avatars.githubusercontent.com/u/98751880?s=200&v=4",
+  "keywords": ["DegenHaus", "default"],
+  "tokens": [
+    {
+      "name": "The Haus Token",
+      "symbol": "HAUS",
+      "address": "0x34584930FB80f30694e3849913A2635041c44e9d",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://avatars.githubusercontent.com/u/98751880?s=200&v=4"
+    },
+    {
+      "name": "Wrapped PWR",
+      "symbol": "wPWR",
+      "address": "0xA29D0ee618f33d8eFE9A20557fd0EF63dD050859",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://maxxswap.org/images/coins/eth.png",
+      "bridgeId": "fantom",
+      "nativeChain": ""
+    },
+    {
+      "name": "Maxx",
+      "symbol": "MAXX",
+      "address": "0x25490a833a22050deae49647d0c264e1960ff8e0",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "Mind Token",
+      "symbol": "MIND",
+      "address": "0x38ad1ee4b3bb45401d98731157949654c5b6102f",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "Maxxdoge",
+      "symbol": "MDOGE",
+      "address": "0x9d1677c605c27d2147ad7a9f220dee64ea4d05d6",
+      "chainId": 10201,
+      "decimals": 9,
+      "logoURI": "",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "ScorcherMaxx Token",
+      "symbol": "SCORCHER",
+      "address": "0x7688e6682e29dbbf3ef1cf15e123e2b25219db82",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+      {
+        "name": "Sirens Treasure Token",
+        "symbol": "SIREN",
+        "address": "0x4604c631823ab1dBE9811c1447c156073cF6EbFd",
+        "chainId": 10201,
+        "decimals": 18,
+        "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xaB4e146070C9A1799D33302823E3397569B8e230.png"
+      },
+    {
+      "name": "Watongoo Gold",
+      "symbol": "WGOLD",
+      "address": "0xe1F9f0fD92391948c31Af5Fa6FB93eCb317D393E",
+      "chainId": 10201,
+      "decimals": 6,
+      "logoURI": "",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "Doom Token",
+      "symbol": "DOOM",
+      "address": "0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://64daa8131761d40562be3a61--fancy-gecko-421c8b.netlify.app/static/media/crypto_tomb_cash.392456cb.svg",
+      "bridgeId": "",
+      "nativeChain": ""
+    }
+  ]
+}

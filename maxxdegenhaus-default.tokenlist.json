@@ -59,6 +59,16 @@
       "nativeChain": ""
     },
     {
+      "name": "Extra Token",
+      "symbol": "XTRA",
+      "address": "0xb151859760f0460f7f2c619b7970a65d1bad8949",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://maxx.degen.haus/images/tokens/0xb151859760f0460f7f2c619b7970a65d1bad8949.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
       "name": "ScorcherMaxx Token",
       "symbol": "SCORCHER",
       "address": "0x7688e6682e29dbbf3ef1cf15e123e2b25219db82",
@@ -83,6 +93,56 @@
       "chainId": 10201,
       "decimals": 18,
       "logoURI": "https://maxx.degen.haus/images/tokens/0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "Maxxshib Token",
+      "symbol": "MAXXSHIB",
+      "address": "0x3daf36d45dc3d3a8b0da82332f48ff2523abb56a",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://maxx.degen.haus/images/tokens/0x3daf36d45dc3d3a8b0da82332f48ff2523abb56a.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "MaxxBuidL Token",
+      "symbol": "$MXBL",
+      "address": "0xb405fe9c5a11186311cdfc7c0bb424c57576471d",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://maxx.degen.haus/images/tokens/0xb405fe9c5a11186311cdfc7c0bb424c57576471d.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "System 7 Token on Maxx Chain",
+      "symbol": "SYS7",
+      "address": "0x4F8B4E2df3AEef12580C07Bf9afa9F35f3691687",
+      "chainId": 10201,
+      "decimals": 9,
+      "logoURI": "https://maxx.degen.haus/images/tokens/0x4F8B4E2df3AEef12580C07Bf9afa9F35f3691687.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "Wotongoo Gold",
+      "symbol": "WGOLD",
+      "address": "0xe1f9f0fd92391948c31af5fa6fb93ecb317d393e",
+      "chainId": 10201,
+      "decimals": 6,
+      "logoURI": "https://maxx.degen.haus/images/tokens/0xe1f9f0fd92391948c31af5fa6fb93ecb317d393e.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "MaxxNana Token",
+      "symbol": "Nanners",
+      "address": "0x37d86f768f620fe96228824d4b977cfc11377a1d",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://maxx.degen.haus/images/tokens/0x37d86f768f620fe96228824d4b977cfc11377a1d.png",
       "bridgeId": "",
       "nativeChain": ""
     }

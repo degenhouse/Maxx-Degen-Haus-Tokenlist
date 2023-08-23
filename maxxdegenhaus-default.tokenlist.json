@@ -145,6 +145,22 @@
       "logoURI": "https://maxx.degen.haus/images/tokens/0x37d86f768f620fe96228824d4b977cfc11377a1d.png",
       "bridgeId": "",
       "nativeChain": ""
-    }
+    },
+      {
+        "name": "MaxxNana Token",
+        "symbol": "Nanners",
+        "address": "0x37d86F768F620FE96228824D4b977cfc11377A1d",
+        "chainId": 10201,
+        "decimals": 18,
+        "logoURI": "https://maxx.degen.haus/images/tokens/0x37d86F768F620FE96228824D4b977cfc11377A1d.png"
+      },
+      {
+        "name": "PulsinatorMAXX",
+        "symbol": "PulseMAXX",
+        "address": "0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634",
+        "chainId": 10201,
+        "decimals": 18,
+        "logoURI": "https://maxx.degen.haus/images/tokens/0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634.png"
+      }
   ]
 }

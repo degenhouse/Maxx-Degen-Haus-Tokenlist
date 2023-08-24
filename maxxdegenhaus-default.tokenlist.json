@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://maxx.degen.haus/images/tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png",
+  "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png",
   "keywords": ["Degen", "Haus", "Maxx", "Chain", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0x34584930FB80f30694e3849913A2635041c44e9d",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png"
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png"
     },
     {
       "name": "Wrapped PWR",
@@ -24,7 +24,7 @@
       "address": "0xA29D0ee618f33d8eFE9A20557fd0EF63dD050859",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/pwr1.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/pwr1.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -34,7 +34,7 @@
       "address": "0x25490a833a22050deae49647d0c264e1960ff8e0",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x25490a833a22050dEaE49647d0c264e1960FF8E0.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x25490a833a22050dEaE49647d0c264e1960FF8E0.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -44,7 +44,7 @@
       "address": "0x38ad1ee4b3bb45401d98731157949654c5b6102f",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x38ad1Ee4b3bB45401D98731157949654C5B6102f.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x38ad1Ee4b3bB45401D98731157949654C5B6102f.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -54,7 +54,7 @@
       "address": "0x9d1677c605c27d2147ad7a9f220dee64ea4d05d6",
       "chainId": 10201,
       "decimals": 9,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x9d1677c605c27d2147ad7A9f220dEe64EA4D05D6.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x9d1677c605c27d2147ad7A9f220dEe64EA4D05D6.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -64,7 +64,7 @@
       "address": "0xb151859760f0460f7f2c619b7970a65d1bad8949",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0xb151859760f0460f7f2c619b7970a65d1bad8949.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0xb151859760f0460f7f2c619b7970a65d1bad8949.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -74,7 +74,7 @@
       "address": "0x7688e6682e29dbbf3ef1cf15e123e2b25219db82",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x7688E6682E29dBBF3eF1CF15e123E2B25219Db82.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x7688E6682E29dBBF3eF1CF15e123E2B25219Db82.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -82,7 +82,7 @@
       "name": "Sirens Treasure Token",
       "symbol": "SIREN",
       "address": "0x4604c631823ab1dBE9811c1447c156073cF6EbFd",
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x4604c631823ab1dBE9811c1447c156073cF6EbFd.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x4604c631823ab1dBE9811c1447c156073cF6EbFd.png",
       "chainId": 10201,
       "decimals": 18
     },
@@ -92,7 +92,7 @@
       "address": "0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x9BB9Ff8B10F9d58c6a8791922936c4e5b18fd574.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -102,7 +102,7 @@
       "address": "0x3daf36d45dc3d3a8b0da82332f48ff2523abb56a",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x3daf36d45dc3d3a8b0da82332f48ff2523abb56a.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x3daf36d45dc3d3a8b0da82332f48ff2523abb56a.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -112,7 +112,7 @@
       "address": "0xb405fe9c5a11186311cdfc7c0bb424c57576471d",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0xb405fe9c5a11186311cdfc7c0bb424c57576471d.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0xb405fe9c5a11186311cdfc7c0bb424c57576471d.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -122,7 +122,7 @@
       "address": "0x4F8B4E2df3AEef12580C07Bf9afa9F35f3691687",
       "chainId": 10201,
       "decimals": 9,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x4F8B4E2df3AEef12580C07Bf9afa9F35f3691687.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x4F8B4E2df3AEef12580C07Bf9afa9F35f3691687.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -132,7 +132,7 @@
       "address": "0x37d86F768F620FE96228824D4b977cfc11377A1d",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x37d86F768F620FE96228824D4b977cfc11377A1d.png"
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x37d86F768F620FE96228824D4b977cfc11377A1d.png"
     },
     {
       "name": "PulsinatorMAXX",
@@ -140,7 +140,7 @@
       "address": "0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://maxx.degen.haus/images/tokens/0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634.png"
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634.png"
     }
   ]
 }

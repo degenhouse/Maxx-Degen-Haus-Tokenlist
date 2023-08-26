@@ -135,12 +135,20 @@
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x37d86F768F620FE96228824D4b977cfc11377A1d.png"
     },
     {
-      "name": "PulsinatorMAXX",
-      "symbol": "PulseMAXX",
-      "address": "0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634",
+      "name": "MaxxNana Token",
+      "symbol": "Nanners",
+      "address": "0x37d86F768F620FE96228824D4b977cfc11377A1d",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x56De8ff4eAd7CFC2A4168c78c23F790aa1eFf634.png"
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x37d86F768F620FE96228824D4b977cfc11377A1d.png"
+    },
+    {
+      "name": "SafuMaxx Token",
+      "symbol": "SAFUMAXX",
+      "address": "0x496aF7721811482f18D5f92C07718572B3Dd309D",
+      "chainId": 10201,
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x496aF7721811482f18D5f92C07718572B3Dd309D.png"
     }
   ]
 }

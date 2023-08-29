@@ -111,7 +111,7 @@
       "symbol": "$MXBL",
       "address": "0xb405fe9c5a11186311cdfc7c0bb424c57576471d",
       "chainId": 10201,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0xb405fe9c5a11186311cdfc7c0bb424c57576471d.png",
       "bridgeId": "",
       "nativeChain": ""

@@ -141,6 +141,14 @@
       "chainId": 10201,
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x496aF7721811482f18D5f92C07718572B3Dd309D.png"
+    },
+    {
+      "name": "Kinder Inu Token",
+      "symbol": "KinderMAXX",
+      "address": "0x1d34a5f93fda758b51c817a9688afc9a020c1fb4",
+      "chainId": 10201,
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x1d34a5f93fda758b51c817a9688afc9a020c1fb4.png"
     }
   ]
 }

@@ -149,6 +149,41 @@
       "chainId": 10201,
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x1d34a5f93fda758b51c817a9688afc9a020c1fb4.png"
-    }
+    },
+
+      {
+        "name": "Test Haus Token",
+        "symbol": "HAUS",
+        "address": "0x2ec1406C8C620e38fCFd3Ad34a9F36080Bb95FFD",
+        "chainId": 1023,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png"
+      },
+      {
+        "name": "Test USDT",
+        "symbol": "TestUSDT",
+        "address": "0x61cd1042618E1BfBa184F67D2d0e6E1ef72bd2C5",
+        "chainId": 123,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x61cd1042618E1BfBa184F67D2d0e6E1ef72bd2C5.png"
+      },
+      {
+        "name": "Test USD Degen ",
+        "symbol": "USDDegen",
+        "address": "0x57518C591Eb761c83D37E1ee85dC4334Fcbf8C11",
+        "chainId": 123,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x57518C591Eb761c83D37E1ee85dC4334Fcbf8C11.png"
+      },
+      {
+        "name": "Wrapped Test PWR",
+        "symbol": "WPWRT",
+        "address": "0xA29D0ee618f33d8eFE9A20557fd0EF63dD050859",
+        "chainId": 123,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/pwr1.png",
+        "bridgeId": "",
+        "nativeChain": ""
+      }
   ]
 }

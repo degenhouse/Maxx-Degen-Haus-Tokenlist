@@ -167,6 +167,14 @@
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x786d7dfba8f4dd1d22e78ae06c966dd313378476.png"
     },
     {
+      "name": "ANUNAKI",
+      "symbol": "ANU",
+      "address": "0x6CB6c8D16e7B6Fd5A815702B824e6Dfdf148a7D9",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x6CB6c8D16e7B6Fd5A815702B824e6Dfdf148a7D9.png"
+    },
+    {
       "name": "Pepe2028",
       "symbol": "Pepe2028",
       "address": "0x2ba9f8c307203e2c98ba59ec0ef8f3941b439f37",

@@ -149,6 +149,30 @@
       "chainId": 10201,
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x1d34a5f93fda758b51c817a9688afc9a020c1fb4.png"
+    },
+    {
+      "name": "PulsinatorMAXX",
+      "symbol": "PulseMAXX",
+      "address": "0xe0b8ebd03e2e2e9a0eb89e75f5c19b5a2d3c7792",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0xe0b8ebd03e2e2e9a0eb89e75f5c19b5a2d3c7792.png"
+    },
+    {
+      "name": "PeoplesDAO",
+      "symbol": "PEPED",
+      "address": "0x786d7dfba8f4dd1d22e78ae06c966dd313378476",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x786d7dfba8f4dd1d22e78ae06c966dd313378476.png"
+    },
+    {
+      "name": "Pepe2028",
+      "symbol": "Pepe2028",
+      "address": "0x2ba9f8c307203e2c98ba59ec0ef8f3941b439f37",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x2ba9f8c307203e2c98ba59ec0ef8f3941b439f37.png"
     }
 
   ]

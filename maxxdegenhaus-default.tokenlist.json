@@ -2,21 +2,29 @@
   "name": "DEGENHAUS Default List",
   "timestamp": "2023-08-19T11:12:32Z",
   "version": {
-    "major": 8,
+    "major": 12,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png",
+  "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x937a1F660ad3636D47f590Cc87D38566F54d99c8.png",
   "keywords": ["Degen", "Haus", "Maxx", "Chain", "default"],
   "tokens": [
     {
       "name": "The Haus Token",
       "symbol": "HAUS",
-      "address": "0x34584930FB80f30694e3849913A2635041c44e9d",
+      "address": "0x937a1F660ad3636D47f590Cc87D38566F54d99c8",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x34584930FB80f30694e3849913A2635041c44e9d.png"
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x937a1F660ad3636D47f590Cc87D38566F54d99c8.png"
+    },
+    {
+      "name": "The Haus V1 Token",
+      "symbol": "V1HAUS",
+      "address": "0x34584930fb80f30694e3849913a2635041c44e9d",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x34584930fb80f30694e3849913a2635041c44e9d.png"
     },
     {
       "name": "Wrapped PWR",
@@ -181,6 +189,30 @@
       "chainId": 10201,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x2ba9f8c307203e2c98ba59ec0ef8f3941b439f37.png"
+    },
+    {
+      "name": "BitMaxx",
+      "symbol": "BTM",
+      "address": "0xc27BbD4276F9eb2D6F2c4623612412d52D7Bb43D",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0xc27BbD4276F9eb2D6F2c4623612412d52D7Bb43D.png"
+    },
+    {
+      "name": "MaxxInu",
+      "symbol": "MaxxInu",
+      "address": "0x23c754E74f10B66406070dEd6D6fF2DB99b2a243",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x23c754E74f10B66406070dEd6D6fF2DB99b2a243.png"
+    },
+    {
+      "name": "XEarn",
+      "symbol": "XEARN",
+      "address": "0x51e8Cf38669e92D26aD10ef6113060080E3B76CC",
+      "chainId": 10201,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x51e8Cf38669e92D26aD10ef6113060080E3B76CC.png"
     }
 
   ]

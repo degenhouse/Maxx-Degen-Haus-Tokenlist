@@ -143,9 +143,17 @@
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x37d86F768F620FE96228824D4b977cfc11377A1d.png"
     },
     {
+      "name": "OLD SafuMaxx Token",
+      "symbol": "OLDSAFUMAXX",
+      "address": "0x496aF7721811482f18D5f92C07718572B3Dd309D",
+      "chainId": 10201,
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x496aF7721811482f18D5f92C07718572B3Dd309D.png"
+    },
+    {
       "name": "SafuMaxx Token",
       "symbol": "SAFUMAXX",
-      "address": "0x496aF7721811482f18D5f92C07718572B3Dd309D",
+      "address": "0x86d287870f0f120e62d1b23ec080cda92fad0c91",
       "chainId": 10201,
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x496aF7721811482f18D5f92C07718572B3Dd309D.png"

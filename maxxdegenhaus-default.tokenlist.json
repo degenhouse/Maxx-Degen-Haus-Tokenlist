@@ -207,6 +207,14 @@
       "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0xc27BbD4276F9eb2D6F2c4623612412d52D7Bb43D.png"
     },
     {
+      "name": "MaxxNFT",
+      "symbol": "MAXXNFT",
+      "address": "0x7154ad90DE0c75b0d44A36826bF81b1c594A2E9f",
+      "chainId": 10201,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x7154ad90DE0c75b0d44A36826bF81b1c594A2E9f.png"
+    },
+    {
       "name": "MaxxInu",
       "symbol": "MaxxInu",
       "address": "0x23c754E74f10B66406070dEd6D6fF2DB99b2a243",

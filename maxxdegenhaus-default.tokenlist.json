@@ -37,12 +37,12 @@
       "nativeChain": ""
     },
     {
-      "name": "Maxx",
-      "symbol": "MAXX",
-      "address": "0x25490a833a22050deae49647d0c264e1960ff8e0",
+      "name": "Nexus",
+      "symbol": "NEX",
+      "address": "0x72EF3FD7271e5F83386EAf45FFc0C1AeCa0E8859",
       "chainId": 10201,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x25490a833a22050dEaE49647d0c264e1960FF8E0.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/Maxx-Degen-Haus-Tokenlist/main/Tokens/0x72EF3FD7271e5F83386EAf45FFc0C1AeCa0E8859.png",
       "bridgeId": "",
       "nativeChain": ""
     },
